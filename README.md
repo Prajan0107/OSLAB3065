@@ -1,7 +1,5 @@
 # OSLAB3065
 Operating System Lab Exercises
-# oslab3068
-Operating System Lab exercise
 
 
 ex 3
